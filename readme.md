@@ -10,7 +10,7 @@ python -m venv < env_name >
 2. Activate the environment (for windows cmd)
 
 ```
-< env_name >/Scrips/activate.bat
+< env_name >/Scripts/activate.bat
 ```
 
 3. Install Requirements from requirements.txt
